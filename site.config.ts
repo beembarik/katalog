@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Katalog Buku',
-  domain: 'katalog.vercel/app',
+  domain: 'katalog11.vercel/app',
   author: 'Beem',
 
   // open graph metadata (optional)
